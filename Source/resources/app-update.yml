@@ -1,0 +1,6 @@
+owner: LLK
+repo: scratch-desktop
+provider: github
+updaterCacheDirName: scratch-desktop-updater
+publisherName:
+  - Massachusetts Institute of Technology
