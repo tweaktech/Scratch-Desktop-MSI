@@ -1,1 +1,1 @@
-# Scratch-Desktop-MSI
+# Scratch Desktop MSI
